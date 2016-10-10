@@ -1,0 +1,18 @@
+{"name": "predix-seed",
+        "version": "1.2.13",
+        "dependencies": {
+                "vulcanize": {
+                        "version": "1.14.8",
+                        "from": "vulcanize@>=1.9.3 <2.0.0",
+                        "resolved":
+"https://registry.npmjs.org/vulcanize/-/vulcanize-1.14.8.tgz",
+                        "dependencies": {
+                                "nopt": {
+                                        "version": "3.0.6",
+                                        "from": "nopt@>=3.0.1 <4.0.0",
+                                        "resolved": "https://registry.npmjs.org/nopt/-/nopt-3.0.6.tgz"
+                                }
+                        }
+                }
+        }
+}

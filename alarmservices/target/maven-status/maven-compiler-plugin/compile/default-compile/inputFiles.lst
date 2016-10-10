@@ -1,0 +1,12 @@
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/jpa/DatabaseConfigCloud.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/dto/HospitalDTO.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/dto/Patient.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/jpa/init/InitAlarmServiceData.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/entity/AlarmEventEntity.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/repository/IAlarmEventEntityRepository.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/HospitalAlarmService.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/dto/AlarmEvent.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/repository/IPatientEntityRepository.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/entity/PatientEntity.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/CorsFilter.java
+/predix/Documents/MyProject/alarmservices/src/main/java/com/ge/predix/solsvc/training/alarmservices/PredixHospitalAlarmServiceApplication.java

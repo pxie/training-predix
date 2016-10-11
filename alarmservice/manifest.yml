@@ -1,0 +1,9 @@
+---
+applications:
+  - name: ppxie-alarmservice
+    buildpack: java_buildpack
+    path: target/alarmservice-0.0.1-SNAPSHOT.jar
+    services:
+      - pxie-postgres
+env:
+    db_service_name: pxie-postgres
